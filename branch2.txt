@@ -1,1 +1,0 @@
-This file name branch2.txt is created in branch1
